@@ -5,7 +5,7 @@ const{
 
 const ytdl = require("ytdl-core");
 const bot = new Client();
-const token = 'ODEwMTQwMjYzMjEyNjQ2NDkw.YCfT6g.Hp6J4rv3ij6F_UhRi0X3FBV54ak';
+const token = ''; //seu token
 const PREFIX = '=';
 var version = '1.5';
 var servers = {};
