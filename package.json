@@ -1,0 +1,18 @@
+{
+  "name": "discord-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "discord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "0.0.8",
+    "ytdl-core": "^4.5.0"
+  }
+}
